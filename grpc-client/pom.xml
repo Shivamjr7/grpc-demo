@@ -5,9 +5,10 @@
 	<parent>
 		<groupId>com.shivam</groupId>
 		<artifactId>grpc-demo</artifactId>
-		<version>3.0.2</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<version>0.0.1-SNAPSHOT</version>
+
 	</parent>
+
 	<groupId>com.shivam</groupId>
 	<artifactId>grpc-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -17,7 +18,7 @@
 		<dependency>
 			<groupId>com.shivam</groupId>
 			<artifactId>grpc-proto</artifactId>
-			<version>1.0</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
